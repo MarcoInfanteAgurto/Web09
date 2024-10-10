@@ -1,0 +1,8 @@
+#botonArriba{
+position: fixed;
+bottom: 20px;
+right: -200px;
+width: 6%;
+transition: all 1s;
+cursor: pointer;
+}
